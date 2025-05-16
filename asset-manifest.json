@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/APAC-Solution-Challenge/static/css/main.a38a590e.css",
-    "main.js": "/APAC-Solution-Challenge/static/js/main.525fcdc3.js",
-    "static/js/453.3bb6fb69.chunk.js": "/APAC-Solution-Challenge/static/js/453.3bb6fb69.chunk.js",
-    "index.html": "/APAC-Solution-Challenge/index.html",
-    "main.a38a590e.css.map": "/APAC-Solution-Challenge/static/css/main.a38a590e.css.map",
-    "main.525fcdc3.js.map": "/APAC-Solution-Challenge/static/js/main.525fcdc3.js.map",
-    "453.3bb6fb69.chunk.js.map": "/APAC-Solution-Challenge/static/js/453.3bb6fb69.chunk.js.map"
+    "main.css": "/static/css/main.a38a590e.css",
+    "main.js": "/static/js/main.9c7c75c7.js",
+    "static/js/453.3bb6fb69.chunk.js": "/static/js/453.3bb6fb69.chunk.js",
+    "index.html": "/index.html",
+    "main.a38a590e.css.map": "/static/css/main.a38a590e.css.map",
+    "main.9c7c75c7.js.map": "/static/js/main.9c7c75c7.js.map",
+    "453.3bb6fb69.chunk.js.map": "/static/js/453.3bb6fb69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a38a590e.css",
-    "static/js/main.525fcdc3.js"
+    "static/js/main.9c7c75c7.js"
   ]
 }
