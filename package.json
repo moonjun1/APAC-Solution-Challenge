@@ -2,7 +2,7 @@
   "name": "farmsmart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://moonjun1.github.io/farmsmart",
+  "homepage": "https://moonjun1.github.io/APAC-Solution-Challenge",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@testing-library/dom": "^10.4.0",
