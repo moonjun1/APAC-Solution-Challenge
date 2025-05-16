@@ -36,7 +36,7 @@ const PlantAnalysisComponent = () => {
 
       // Gemini API 클라이언트 초기화
       const genAI = new GoogleGenerativeAI(API_KEY);
-      const model = genAI.getGenerativeModel({ model: "gemini-pro-vision" });
+      const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
       // 이미지 파일을 base64로 변환
       const fileBase64 = await convertToBase64(file);
