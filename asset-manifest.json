@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farmsmart/static/css/main.a38a590e.css",
+    "main.js": "/farmsmart/static/js/main.6e547653.js",
+    "static/js/453.3bb6fb69.chunk.js": "/farmsmart/static/js/453.3bb6fb69.chunk.js",
+    "index.html": "/farmsmart/index.html",
+    "main.a38a590e.css.map": "/farmsmart/static/css/main.a38a590e.css.map",
+    "main.6e547653.js.map": "/farmsmart/static/js/main.6e547653.js.map",
+    "453.3bb6fb69.chunk.js.map": "/farmsmart/static/js/453.3bb6fb69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a38a590e.css",
+    "static/js/main.6e547653.js"
+  ]
+}
