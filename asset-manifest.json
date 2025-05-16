@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/farmsmart/static/css/main.a38a590e.css",
-    "main.js": "/farmsmart/static/js/main.6e547653.js",
-    "static/js/453.3bb6fb69.chunk.js": "/farmsmart/static/js/453.3bb6fb69.chunk.js",
-    "index.html": "/farmsmart/index.html",
-    "main.a38a590e.css.map": "/farmsmart/static/css/main.a38a590e.css.map",
-    "main.6e547653.js.map": "/farmsmart/static/js/main.6e547653.js.map",
-    "453.3bb6fb69.chunk.js.map": "/farmsmart/static/js/453.3bb6fb69.chunk.js.map"
+    "main.css": "/APAC-Solution-Challenge/static/css/main.a38a590e.css",
+    "main.js": "/APAC-Solution-Challenge/static/js/main.bc90fd31.js",
+    "static/js/453.3bb6fb69.chunk.js": "/APAC-Solution-Challenge/static/js/453.3bb6fb69.chunk.js",
+    "index.html": "/APAC-Solution-Challenge/index.html",
+    "main.a38a590e.css.map": "/APAC-Solution-Challenge/static/css/main.a38a590e.css.map",
+    "main.bc90fd31.js.map": "/APAC-Solution-Challenge/static/js/main.bc90fd31.js.map",
+    "453.3bb6fb69.chunk.js.map": "/APAC-Solution-Challenge/static/js/453.3bb6fb69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a38a590e.css",
-    "static/js/main.6e547653.js"
+    "static/js/main.bc90fd31.js"
   ]
 }
